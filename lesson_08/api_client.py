@@ -2,7 +2,7 @@ import requests
 
 
 class YouGileAPI:
-    BASE_URL = "https://yougile.com"
+    BASE_URL = "https://ru.yougile.com"
 
     def __init__(self, token):
         self.headers = {
