@@ -20,7 +20,7 @@ def test_calculator():
             page.open()
 
         with allure.step("Установить задержку 45 секунд"):
-            page.set_delay(45)
+            page.set_delay(1)
 
         with allure.step("Нажать кнопку 7"):
             page.click_button("7")
