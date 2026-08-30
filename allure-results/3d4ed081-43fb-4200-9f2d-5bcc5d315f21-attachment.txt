@@ -1,0 +1,7 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:163 Cache folder (C:\Users\egoro\.cache\selenium) cannot be created: Отказано в доступе. (os error 5)
