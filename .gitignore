@@ -13,6 +13,9 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+chromedriver/
+firefox/
+geckodriver/
 .eggs/
 lib/
 lib64/
